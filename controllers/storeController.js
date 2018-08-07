@@ -42,7 +42,7 @@ exports.createStore = async (req, res) => {
     'success',
     `Successfully Created ${store.name}. Care to leave a review?`
   )
-  res.redirect('/store/slug')
+  res.redirect(`/store/${store.slug}`)
 }
 
 exports.getStores = async (req, res) => {
