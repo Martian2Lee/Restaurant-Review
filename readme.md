@@ -1,3 +1,7 @@
+[site1](http://68.183.127.152/)  
+[site2](https://restaurant-review-node.herokuapp.com/)  
+[site3](https://restaurant-review-xicnxtgxdx.now.sh/stores)  
+
 ## What is this?
 
 Just you wait folks!
